@@ -1,5 +1,7 @@
 Messaging-Message
 
+WARNING: This software is not maintained anymore.
+
 Messaging-Message is a set of Perl modules useful to deal with "messages",
 as used in "messaging", see for instance:
 http://en.wikipedia.org/wiki/Enterprise_messaging_system.
